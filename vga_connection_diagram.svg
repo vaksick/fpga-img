@@ -1,0 +1,862 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="457" viewBox="-50 -857 800 457">
+    <style type="text/css">
+path, polyline, polygon {stroke-linejoin:round;}
+path, polyline, polygon, line {stroke-linecap:round;}
+</style>
+    <rect x="-50" y="-857" width="800" height="457" fill="#FFFFFF" stroke="none"/>
+    <g>
+        <g puuid="1bf59dff03ec4233aa077dc7cf0e92a1" uuid="b0248eb51e084227889f2cb84eab79c4" convert_to_pcb="" add_into_bom="">
+            <g style="">
+                <text x="647" y="-662.671875" font-family="Arial" font-size="7pt" fill="#000080" text-anchor="start" value="499">499</text>
+            </g>
+            <g style="">
+                <text x="647.0078125" y="-671.796875" font-family="Arial" font-size="7pt" fill="#000080" text-anchor="start">R1</text>
+            </g>
+            <polyline points="640 -660 635 -663" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="645 -668 635 -673" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="635 -663 645 -668" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <g locked="0">
+                <text x="640" y="-664" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="start" display="none" transform="rotate(270,640,-664)">2</text>
+                <text x="636" y="-656" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="end" display="none" transform="rotate(270,636,-656)">2</text>
+                <path d="M 640 -655 v -5" fill="none" stroke="#800" stroke-width="1"/>
+                <circle cx="640" cy="-657" r="3" stroke="#800" fill="none" stroke-width="1" display="none"/>
+                <path d="M 643 -660 L 640 -663 L 637 -660" fill="none" stroke="#800" stroke-width="1" display="none"/>
+            </g>
+            <polyline points="635 -682 645 -687" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="635 -673 645 -677" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="645 -677 635 -682" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="645 -687 640 -690" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <g locked="0">
+                <text x="640" y="-686" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="end" display="none" transform="rotate(270,640,-686)">1</text>
+                <text x="636" y="-694" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="start" display="none" transform="rotate(270,636,-694)">1</text>
+                <path d="M 640 -695 v 5" fill="none" stroke="#800" stroke-width="1"/>
+                <circle cx="640" cy="-693" r="3" stroke="#800" fill="none" stroke-width="1" display="none"/>
+                <path d="M 637 -690 L 640 -687 L 643 -690" fill="none" stroke="#800" stroke-width="1" display="none"/>
+            </g>
+            <g style="display: none;">
+                <title>This component is unmounted</title>
+                <text x="630.4" y="-696.9200000000001" fill="red" style="font-size: 7pt; font-family: Arial;" text-anchor="end" transform="rotate(270,630.4,-696.9200000000001)">(R)</text>
+            </g>
+        </g>
+        <g puuid="1bf59dff03ec4233aa077dc7cf0e92a1" uuid="b0248eb51e084227889f2cb84eab79c4" convert_to_pcb="" add_into_bom="">
+            <g style="">
+                <text x="612" y="-662.671875" font-family="Arial" font-size="7pt" fill="#000080" text-anchor="start">1k</text>
+            </g>
+            <g style="">
+                <text x="612.0078125" y="-671.796875" font-family="Arial" font-size="7pt" fill="#000080" text-anchor="start">R2</text>
+            </g>
+            <polyline points="605 -660 600 -663" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="610 -668 600 -673" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="600 -663 610 -668" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <g locked="0">
+                <text x="605" y="-664" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="start" display="none" transform="rotate(270,605,-664)">2</text>
+                <text x="601" y="-656" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="end" display="none" transform="rotate(270,601,-656)">2</text>
+                <path d="M 605 -655 v -5" fill="none" stroke="#800" stroke-width="1"/>
+                <circle cx="605" cy="-657" r="3" stroke="#800" fill="none" stroke-width="1" display="none"/>
+                <path d="M 608 -660 L 605 -663 L 602 -660" fill="none" stroke="#800" stroke-width="1" display="none"/>
+            </g>
+            <polyline points="600 -682 610 -687" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="600 -673 610 -677" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="610 -677 600 -682" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="610 -687 605 -690" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <g locked="0">
+                <text x="605" y="-686" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="end" display="none" transform="rotate(270,605,-686)">1</text>
+                <text x="601" y="-694" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="start" display="none" transform="rotate(270,601,-694)">1</text>
+                <path d="M 605 -695 v 5" fill="none" stroke="#800" stroke-width="1"/>
+                <circle cx="605" cy="-693" r="3" stroke="#800" fill="none" stroke-width="1" display="none"/>
+                <path d="M 602 -690 L 605 -687 L 608 -690" fill="none" stroke="#800" stroke-width="1" display="none"/>
+            </g>
+            <g style="display: none;">
+                <title>This component is unmounted</title>
+                <text x="595.4" y="-696.9200000000001" fill="red" style="font-size: 7pt; font-family: Arial;" text-anchor="end" transform="rotate(270,595.4,-696.9200000000001)">(R)</text>
+            </g>
+        </g>
+        <g puuid="1bf59dff03ec4233aa077dc7cf0e92a1" uuid="b0248eb51e084227889f2cb84eab79c4" convert_to_pcb="" add_into_bom="">
+            <g style="">
+                <text x="577" y="-662.671875" font-family="Arial" font-size="7pt" fill="#000080" text-anchor="start" value="2k">2k</text>
+            </g>
+            <g style="">
+                <text x="577.0078125" y="-671.796875" font-family="Arial" font-size="7pt" fill="#000080" text-anchor="start">R3</text>
+            </g>
+            <polyline points="570 -660 565 -663" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="575 -668 565 -673" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="565 -663 575 -668" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <g locked="0">
+                <text x="570" y="-664" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="start" display="none" transform="rotate(270,570,-664)">2</text>
+                <text x="566" y="-656" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="end" display="none" transform="rotate(270,566,-656)">2</text>
+                <path d="M 570 -655 v -5" fill="none" stroke="#800" stroke-width="1"/>
+                <circle cx="570" cy="-657" r="3" stroke="#800" fill="none" stroke-width="1" display="none"/>
+                <path d="M 573 -660 L 570 -663 L 567 -660" fill="none" stroke="#800" stroke-width="1" display="none"/>
+            </g>
+            <polyline points="565 -682 575 -687" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="565 -673 575 -677" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="575 -677 565 -682" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="575 -687 570 -690" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <g locked="0">
+                <text x="570" y="-686" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="end" display="none" transform="rotate(270,570,-686)">1</text>
+                <text x="566" y="-694" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="start" display="none" transform="rotate(270,566,-694)">1</text>
+                <path d="M 570 -695 v 5" fill="none" stroke="#800" stroke-width="1"/>
+                <circle cx="570" cy="-693" r="3" stroke="#800" fill="none" stroke-width="1" display="none"/>
+                <path d="M 567 -690 L 570 -687 L 573 -690" fill="none" stroke="#800" stroke-width="1" display="none"/>
+            </g>
+            <g style="display: none;">
+                <title>This component is unmounted</title>
+                <text x="560.4000000000001" y="-696.9200000000001" fill="red" style="font-size: 7pt; font-family: Arial;" text-anchor="end" transform="rotate(270,560.4000000000001,-696.9200000000001)">(R)</text>
+            </g>
+        </g>
+        <g puuid="1bf59dff03ec4233aa077dc7cf0e92a1" uuid="b0248eb51e084227889f2cb84eab79c4" convert_to_pcb="" add_into_bom="">
+            <g style="">
+                <text x="542" y="-662.671875" font-family="Arial" font-size="7pt" fill="#000080" text-anchor="start" value="4k">4k</text>
+            </g>
+            <g style="">
+                <text x="542.0078125" y="-671.796875" font-family="Arial" font-size="7pt" fill="#000080" text-anchor="start">R4</text>
+            </g>
+            <polyline points="535 -660 530 -663" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="540 -668 530 -673" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="530 -663 540 -668" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <g locked="0">
+                <text x="535" y="-664" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="start" display="none" transform="rotate(270,535,-664)">2</text>
+                <text x="531" y="-656" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="end" display="none" transform="rotate(270,531,-656)">2</text>
+                <path d="M 535 -655 v -5" fill="none" stroke="#800" stroke-width="1"/>
+                <circle cx="535" cy="-657" r="3" stroke="#800" fill="none" stroke-width="1" display="none"/>
+                <path d="M 538 -660 L 535 -663 L 532 -660" fill="none" stroke="#800" stroke-width="1" display="none"/>
+            </g>
+            <polyline points="530 -682 540 -687" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="530 -673 540 -677" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="540 -677 530 -682" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="540 -687 535 -690" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <g locked="0">
+                <text x="535" y="-686" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="end" display="none" transform="rotate(270,535,-686)">1</text>
+                <text x="531" y="-694" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="start" display="none" transform="rotate(270,531,-694)">1</text>
+                <path d="M 535 -695 v 5" fill="none" stroke="#800" stroke-width="1"/>
+                <circle cx="535" cy="-693" r="3" stroke="#800" fill="none" stroke-width="1" display="none"/>
+                <path d="M 532 -690 L 535 -687 L 538 -690" fill="none" stroke="#800" stroke-width="1" display="none"/>
+            </g>
+            <g style="display: none;">
+                <title>This component is unmounted</title>
+                <text x="525.39" y="-695.98" fill="red" style="font-size: 7pt; font-family: Arial;" text-anchor="end" transform="rotate(270,525.39,-695.98)">(R)</text>
+            </g>
+        </g>
+        <g puuid="1bf59dff03ec4233aa077dc7cf0e92a1" uuid="b0248eb51e084227889f2cb84eab79c4" convert_to_pcb="" add_into_bom="">
+            <g style="">
+                <text x="507" y="-662.671875" font-family="Arial" font-size="7pt" fill="#000080" text-anchor="start" value="8k">8k</text>
+            </g>
+            <g style="">
+                <text x="507.0078125" y="-671.796875" font-family="Arial" font-size="7pt" fill="#000080" text-anchor="start">R5</text>
+            </g>
+            <polyline points="500 -660 495 -663" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="505 -668 495 -673" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="495 -663 505 -668" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <g locked="0">
+                <text x="500" y="-664" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="start" display="none" transform="rotate(270,500,-664)">2</text>
+                <text x="496" y="-656" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="end" display="none" transform="rotate(270,496,-656)">2</text>
+                <path d="M 500 -655 v -5" fill="none" stroke="#800" stroke-width="1"/>
+                <circle cx="500" cy="-657" r="3" stroke="#800" fill="none" stroke-width="1" display="none"/>
+                <path d="M 503 -660 L 500 -663 L 497 -660" fill="none" stroke="#800" stroke-width="1" display="none"/>
+            </g>
+            <polyline points="495 -682 505 -687" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="495 -673 505 -677" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="505 -677 495 -682" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="505 -687 500 -690" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <g locked="0">
+                <text x="500" y="-686" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="end" display="none" transform="rotate(270,500,-686)">1</text>
+                <text x="496" y="-694" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="start" display="none" transform="rotate(270,496,-694)">1</text>
+                <path d="M 500 -695 v 5" fill="none" stroke="#800" stroke-width="1"/>
+                <circle cx="500" cy="-693" r="3" stroke="#800" fill="none" stroke-width="1" display="none"/>
+                <path d="M 497 -690 L 500 -687 L 503 -690" fill="none" stroke="#800" stroke-width="1" display="none"/>
+            </g>
+            <g style="display: none;">
+                <title>This component is unmounted</title>
+                <text x="490.39" y="-695.98" fill="red" style="font-size: 7pt; font-family: Arial;" text-anchor="end" transform="rotate(270,490.39,-695.98)">(R)</text>
+            </g>
+        </g>
+        <g puuid="1bf59dff03ec4233aa077dc7cf0e92a1" uuid="b0248eb51e084227889f2cb84eab79c4" convert_to_pcb="" add_into_bom="">
+            <g style="">
+                <text x="472" y="-662.671875" font-family="Arial" font-size="7pt" fill="#000080" text-anchor="start" value="16k">16k</text>
+            </g>
+            <g style="">
+                <text x="472.0078125" y="-671.796875" font-family="Arial" font-size="7pt" fill="#000080" text-anchor="start">R6</text>
+            </g>
+            <polyline points="465 -660 460 -663" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="470 -668 460 -673" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="460 -663 470 -668" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <g locked="0">
+                <text x="465" y="-664" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="start" display="none" transform="rotate(270,465,-664)">2</text>
+                <text x="461" y="-656" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="end" display="none" transform="rotate(270,461,-656)">2</text>
+                <path d="M 465 -655 v -5" fill="none" stroke="#800" stroke-width="1"/>
+                <circle cx="465" cy="-657" r="3" stroke="#800" fill="none" stroke-width="1" display="none"/>
+                <path d="M 468 -660 L 465 -663 L 462 -660" fill="none" stroke="#800" stroke-width="1" display="none"/>
+            </g>
+            <polyline points="460 -682 470 -687" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="460 -673 470 -677" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="470 -677 460 -682" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="470 -687 465 -690" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <g locked="0">
+                <text x="465" y="-686" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="end" display="none" transform="rotate(270,465,-686)">1</text>
+                <text x="461" y="-694" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="start" display="none" transform="rotate(270,461,-694)">1</text>
+                <path d="M 465 -695 v 5" fill="none" stroke="#800" stroke-width="1"/>
+                <circle cx="465" cy="-693" r="3" stroke="#800" fill="none" stroke-width="1" display="none"/>
+                <path d="M 462 -690 L 465 -687 L 468 -690" fill="none" stroke="#800" stroke-width="1" display="none"/>
+            </g>
+            <g style="display: none;">
+                <title>This component is unmounted</title>
+                <text x="455.39" y="-695.98" fill="red" style="font-size: 7pt; font-family: Arial;" text-anchor="end" transform="rotate(270,455.39,-695.98)">(R)</text>
+            </g>
+        </g>
+        <polyline points="640 -655 640 -635 605 -635 605 -655" stroke="#008800" stroke-width="1" fill="none"/>
+        <polyline points="570 -655 570 -635" stroke="#008800" stroke-width="1" fill="none"/>
+        <polyline points="465 -655 465 -635 605 -635" stroke="#008800" stroke-width="1" fill="none"/>
+        <polyline points="500 -655 500 -635" stroke="#008800" stroke-width="1" fill="none"/>
+        <polyline points="535 -655 535 -635" stroke="#008800" stroke-width="1" fill="none"/>
+        <polyline points="605 -695 605 -730" stroke="#008800" stroke-width="1" fill="none"/>
+        <polyline points="640 -695 640 -730" stroke="#008800" stroke-width="1" fill="none"/>
+        <polyline points="570 -695 570 -730" stroke="#008800" stroke-width="1" fill="none"/>
+        <polyline points="535 -695 535 -730" stroke="#008800" stroke-width="1" fill="none"/>
+        <polyline points="500 -695 500 -730" stroke="#008800" stroke-width="1" fill="none"/>
+        <polyline points="465 -695 465 -730" stroke="#008800" stroke-width="1" fill="none"/>
+        <polyline points="595 -585 500 -585 500 -635" stroke="#008800" stroke-width="1" fill="none"/>
+        <g>
+            <g>
+                <text x="635" y="-788.83" font-family="Times New Roman" font-size="8pt" fill="#0000FF" value="PIN_J13" transform="rotate(90,635,-788.83)">PIN_J13</text>
+            </g>
+            <polyline points="640 -730 635 -735 635 -750 645 -750 645 -735 640 -730" stroke="#0000FF" stroke-width="1" fill="transparent"/>
+        </g>
+        <g>
+            <g>
+                <text x="599.99" y="-792.39" font-family="Times New Roman" font-size="8pt" fill="#0000FF" value="PIN_H13" transform="rotate(90,599.99,-792.39)">PIN_H13</text>
+            </g>
+            <polyline points="605 -730 600 -735 600 -750 610 -750 610 -735 605 -730" stroke="#0000FF" stroke-width="1" fill="transparent"/>
+        </g>
+        <g>
+            <g>
+                <text x="564.99" y="-791.79" font-family="Times New Roman" font-size="8pt" fill="#0000FF" value="PIN_C14" transform="rotate(90,564.99,-791.79)">PIN_C14</text>
+            </g>
+            <polyline points="570 -730 565 -735 565 -750 575 -750 575 -735 570 -730" stroke="#0000FF" stroke-width="1" fill="transparent"/>
+        </g>
+        <g>
+            <g>
+                <text x="529.99" y="-791.79" font-family="Times New Roman" font-size="8pt" fill="#0000FF" value="PIN_C17" transform="rotate(90,529.99,-791.79)">PIN_C17</text>
+            </g>
+            <polyline points="535 -730 530 -735 530 -750 540 -750 540 -735 535 -730" stroke="#0000FF" stroke-width="1" fill="transparent"/>
+        </g>
+        <g>
+            <g>
+                <text x="494.99" y="-792.39" font-family="Times New Roman" font-size="8pt" fill="#0000FF" value="PIN_H12" transform="rotate(90,494.99,-792.39)">PIN_H12</text>
+            </g>
+            <polyline points="500 -730 495 -735 495 -750 505 -750 505 -735 500 -730" stroke="#0000FF" stroke-width="1" fill="transparent"/>
+        </g>
+        <g>
+            <g>
+                <text x="459.99" y="-792.39" font-family="Times New Roman" font-size="8pt" fill="#0000FF" value="PIN_D14" transform="rotate(90,459.99,-792.39)">PIN_D14</text>
+            </g>
+            <polyline points="465 -730 460 -735 460 -750 470 -750 470 -735 465 -730" stroke="#0000FF" stroke-width="1" fill="transparent"/>
+        </g>
+        <g>
+            <g>
+                <text x="617.05" y="-582.82" font-family="Times New Roman" font-size="8pt" fill="#0000FF" value="RED">RED</text>
+            </g>
+            <polyline points="595 -585 600 -590 615 -590 615 -580 600 -580 595 -585" stroke="#0000FF" stroke-width="1" fill="transparent"/>
+        </g>
+        <g>
+            <g>
+                <text x="438.5" y="-505" font-family="Times New Roman" font-size="8pt" fill="#0000FF" text-anchor="end" value="PIN_F16">PIN_F16</text>
+            </g>
+            <polyline points="460 -510 455 -505 440 -505 440 -515 455 -515 460 -510" stroke="#0000FF" stroke-width="1" fill="transparent"/>
+        </g>
+        <g>
+            <g>
+                <text x="438.5" y="-475" font-family="Times New Roman" font-size="8pt" fill="#0000FF" text-anchor="end" value="PIN_F17">PIN_F17</text>
+            </g>
+            <polyline points="460 -480 455 -475 440 -475 440 -485 455 -485 460 -480" stroke="#0000FF" stroke-width="1" fill="transparent"/>
+        </g>
+        <g puuid="1bf59dff03ec4233aa077dc7cf0e92a1" uuid="b0248eb51e084227889f2cb84eab79c4" convert_to_pcb="" add_into_bom="">
+            <g style="">
+                <text x="508.828125" y="-518" font-family="Arial" font-size="7pt" fill="#000080" text-anchor="start" value="120">120</text>
+            </g>
+            <g style="">
+                <text x="508.8359375" y="-526.578125" font-family="Arial" font-size="7pt" fill="#000080" text-anchor="start">R7</text>
+            </g>
+            <polyline points="530 -510 527 -505" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="522 -515 517 -505" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="527 -505 522 -515" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <g locked="0">
+                <text x="526" y="-510" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="end" display="none">2</text>
+                <text x="534" y="-514" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="start" display="none">2</text>
+                <path d="M 535 -510 h -5" fill="none" stroke="#800" stroke-width="1"/>
+                <circle cx="533" cy="-510" r="3" stroke="#800" fill="none" stroke-width="1" display="none"/>
+                <path d="M 530 -513 L 527 -510 L 530 -507" fill="none" stroke="#800" stroke-width="1" display="none"/>
+            </g>
+            <polyline points="508 -505 503 -515" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="517 -505 513 -515" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="513 -515 508 -505" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="503 -515 500 -510" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <g locked="0">
+                <text x="504" y="-510" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="start" display="none">1</text>
+                <text x="496" y="-514" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="end" display="none">1</text>
+                <path d="M 495 -510 h 5" fill="none" stroke="#800" stroke-width="1"/>
+                <circle cx="497" cy="-510" r="3" stroke="#800" fill="none" stroke-width="1" display="none"/>
+                <path d="M 500 -507 L 503 -510 L 500 -513" fill="none" stroke="#800" stroke-width="1" display="none"/>
+            </g>
+            <g style="display: none;">
+                <title>This component is unmounted</title>
+                <text x="493" y="-494" fill="red" style="font-size: 7pt; font-family: Arial;">(R)</text>
+            </g>
+        </g>
+        <g puuid="1bf59dff03ec4233aa077dc7cf0e92a1" uuid="b0248eb51e084227889f2cb84eab79c4" convert_to_pcb="" add_into_bom="">
+            <g style="">
+                <text x="508.828125" y="-488" font-family="Arial" font-size="7pt" fill="#000080" text-anchor="start" value="120">120</text>
+            </g>
+            <g style="">
+                <text x="508.8359375" y="-496.578125" font-family="Arial" font-size="7pt" fill="#000080" text-anchor="start">R8</text>
+            </g>
+            <polyline points="530 -480 527 -475" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="522 -485 517 -475" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="527 -475 522 -485" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <g locked="0">
+                <text x="526" y="-480" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="end" display="none">2</text>
+                <text x="534" y="-484" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="start" display="none">2</text>
+                <path d="M 535 -480 h -5" fill="none" stroke="#800" stroke-width="1"/>
+                <circle cx="533" cy="-480" r="3" stroke="#800" fill="none" stroke-width="1" display="none"/>
+                <path d="M 530 -483 L 527 -480 L 530 -477" fill="none" stroke="#800" stroke-width="1" display="none"/>
+            </g>
+            <polyline points="508 -475 503 -485" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="517 -475 513 -485" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="513 -485 508 -475" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="503 -485 500 -480" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <g locked="0">
+                <text x="504" y="-480" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="start" display="none">1</text>
+                <text x="496" y="-484" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="end" display="none">1</text>
+                <path d="M 495 -480 h 5" fill="none" stroke="#800" stroke-width="1"/>
+                <circle cx="497" cy="-480" r="3" stroke="#800" fill="none" stroke-width="1" display="none"/>
+                <path d="M 500 -477 L 503 -480 L 500 -483" fill="none" stroke="#800" stroke-width="1" display="none"/>
+            </g>
+            <g style="display: none;">
+                <title>This component is unmounted</title>
+                <text x="493" y="-464" fill="red" style="font-size: 7pt; font-family: Arial;">(R)</text>
+            </g>
+        </g>
+        <g>
+            <g>
+                <text x="617.05" y="-507.82000000000005" font-family="Times New Roman" font-size="8pt" fill="#0000FF" value="H SYNC">H SYNC</text>
+            </g>
+            <polyline points="595 -510 600 -515 615 -515 615 -505 600 -505 595 -510" stroke="#0000FF" stroke-width="1" fill="transparent"/>
+        </g>
+        <g>
+            <g>
+                <text x="617.05" y="-477.82000000000005" font-family="Times New Roman" font-size="8pt" fill="#0000FF" value="V SYNC">V SYNC</text>
+            </g>
+            <polyline points="595 -480 600 -485 615 -485 615 -475 600 -475 595 -480" stroke="#0000FF" stroke-width="1" fill="transparent"/>
+        </g>
+        <g>
+            <g>
+                <text x="617.05" y="-557.82" font-family="Times New Roman" font-size="8pt" fill="#0000FF" value="GREEN">GREEN</text>
+            </g>
+            <polyline points="595 -560 600 -565 615 -565 615 -555 600 -555 595 -560" stroke="#0000FF" stroke-width="1" fill="transparent"/>
+        </g>
+        <g>
+            <g>
+                <text x="239.99" y="-791.79" font-family="Times New Roman" font-size="8pt" fill="#0000FF" value="PIN_C18" transform="rotate(90,239.99,-791.79)">PIN_C18</text>
+            </g>
+            <polyline points="245 -730 240 -735 240 -750 250 -750 250 -735 245 -730" stroke="#0000FF" stroke-width="1" fill="transparent"/>
+        </g>
+        <g>
+            <g>
+                <text x="274.99" y="-791.2" font-family="Times New Roman" font-size="8pt" fill="#0000FF" value="PIN_E17" transform="rotate(90,274.99,-791.2)">PIN_E17</text>
+            </g>
+            <polyline points="280 -730 275 -735 275 -750 285 -750 285 -735 280 -730" stroke="#0000FF" stroke-width="1" fill="transparent"/>
+        </g>
+        <g>
+            <g>
+                <text x="309.99" y="-792.39" font-family="Times New Roman" font-size="8pt" fill="#0000FF" value="PIN_A19" transform="rotate(90,309.99,-792.39)">PIN_A19</text>
+            </g>
+            <polyline points="315 -730 310 -735 310 -750 320 -750 320 -735 315 -730" stroke="#0000FF" stroke-width="1" fill="transparent"/>
+        </g>
+        <g>
+            <g>
+                <text x="344.99" y="-792.39" font-family="Times New Roman" font-size="8pt" fill="#0000FF" value="PIN_A18" transform="rotate(90,344.99,-792.39)">PIN_A18</text>
+            </g>
+            <polyline points="350 -730 345 -735 345 -750 355 -750 355 -735 350 -730" stroke="#0000FF" stroke-width="1" fill="transparent"/>
+        </g>
+        <g>
+            <g>
+                <text x="379.99" y="-792.39" font-family="Times New Roman" font-size="8pt" fill="#0000FF" value="PIN_G15" transform="rotate(90,379.99,-792.39)">PIN_G15</text>
+            </g>
+            <polyline points="385 -730 380 -735 380 -750 390 -750 390 -735 385 -730" stroke="#0000FF" stroke-width="1" fill="transparent"/>
+        </g>
+        <g>
+            <g>
+                <text x="414.99" y="-792.39" font-family="Times New Roman" font-size="8pt" fill="#0000FF" value="PIN_G12" transform="rotate(90,414.99,-792.39)">PIN_G12</text>
+            </g>
+            <polyline points="420 -730 415 -735 415 -750 425 -750 425 -735 420 -730" stroke="#0000FF" stroke-width="1" fill="transparent"/>
+        </g>
+        <polyline points="595 -560 385 -560 385 -635" stroke="#008800" stroke-width="1" fill="none"/>
+        <polyline points="245 -695 245 -730" stroke="#008800" stroke-width="1" fill="none"/>
+        <polyline points="280 -695 280 -730" stroke="#008800" stroke-width="1" fill="none"/>
+        <polyline points="315 -695 315 -730" stroke="#008800" stroke-width="1" fill="none"/>
+        <polyline points="350 -695 350 -730" stroke="#008800" stroke-width="1" fill="none"/>
+        <polyline points="420 -695 420 -730" stroke="#008800" stroke-width="1" fill="none"/>
+        <polyline points="385 -695 385 -730" stroke="#008800" stroke-width="1" fill="none"/>
+        <polyline points="315 -655 315 -635" stroke="#008800" stroke-width="1" fill="none"/>
+        <polyline points="280 -655 280 -635" stroke="#008800" stroke-width="1" fill="none"/>
+        <polyline points="245 -655 245 -635 385 -635" stroke="#008800" stroke-width="1" fill="none"/>
+        <polyline points="350 -655 350 -635" stroke="#008800" stroke-width="1" fill="none"/>
+        <polyline points="420 -655 420 -635 385 -635 385 -655" stroke="#008800" stroke-width="1" fill="none"/>
+        <g puuid="1bf59dff03ec4233aa077dc7cf0e92a1" uuid="b0248eb51e084227889f2cb84eab79c4" convert_to_pcb="" add_into_bom="">
+            <g style="">
+                <text x="252" y="-662.671875" font-family="Arial" font-size="7pt" fill="#000080" text-anchor="start" value="16k">16k</text>
+            </g>
+            <g style="">
+                <text x="252.0078125" y="-671.796875" font-family="Arial" font-size="7pt" fill="#000080" text-anchor="start">R9</text>
+            </g>
+            <polyline points="245 -660 240 -663" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="250 -668 240 -673" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="240 -663 250 -668" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <g locked="0">
+                <text x="245" y="-664" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="start" display="none" transform="rotate(270,245,-664)">2</text>
+                <text x="241" y="-656" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="end" display="none" transform="rotate(270,241,-656)">2</text>
+                <path d="M 245 -655 v -5" fill="none" stroke="#800" stroke-width="1"/>
+                <circle cx="245" cy="-657" r="3" stroke="#800" fill="none" stroke-width="1" display="none"/>
+                <path d="M 248 -660 L 245 -663 L 242 -660" fill="none" stroke="#800" stroke-width="1" display="none"/>
+            </g>
+            <polyline points="240 -682 250 -687" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="240 -673 250 -677" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="250 -677 240 -682" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="250 -687 245 -690" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <g locked="0">
+                <text x="245" y="-686" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="end" display="none" transform="rotate(270,245,-686)">1</text>
+                <text x="241" y="-694" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="start" display="none" transform="rotate(270,241,-694)">1</text>
+                <path d="M 245 -695 v 5" fill="none" stroke="#800" stroke-width="1"/>
+                <circle cx="245" cy="-693" r="3" stroke="#800" fill="none" stroke-width="1" display="none"/>
+                <path d="M 242 -690 L 245 -687 L 248 -690" fill="none" stroke="#800" stroke-width="1" display="none"/>
+            </g>
+            <g style="display: none;">
+                <title>This component is unmounted</title>
+                <text x="235.38999999999987" y="-695.98" fill="red" style="font-size: 7pt; font-family: Arial;" text-anchor="end" transform="rotate(270,235.38999999999987,-695.98)">(R)</text>
+            </g>
+        </g>
+        <g puuid="1bf59dff03ec4233aa077dc7cf0e92a1" uuid="b0248eb51e084227889f2cb84eab79c4" convert_to_pcb="" add_into_bom="">
+            <g style="">
+                <text x="287" y="-662.671875" font-family="Arial" font-size="7pt" fill="#000080" text-anchor="start" value="8k">8k</text>
+            </g>
+            <g style="">
+                <text x="287.0078125" y="-671.796875" font-family="Arial" font-size="7pt" fill="#000080" text-anchor="start">R10</text>
+            </g>
+            <polyline points="280 -660 275 -663" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="285 -668 275 -673" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="275 -663 285 -668" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <g locked="0">
+                <text x="280" y="-664" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="start" display="none" transform="rotate(270,280,-664)">2</text>
+                <text x="276" y="-656" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="end" display="none" transform="rotate(270,276,-656)">2</text>
+                <path d="M 280 -655 v -5" fill="none" stroke="#800" stroke-width="1"/>
+                <circle cx="280" cy="-657" r="3" stroke="#800" fill="none" stroke-width="1" display="none"/>
+                <path d="M 283 -660 L 280 -663 L 277 -660" fill="none" stroke="#800" stroke-width="1" display="none"/>
+            </g>
+            <polyline points="275 -682 285 -687" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="275 -673 285 -677" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="285 -677 275 -682" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="285 -687 280 -690" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <g locked="0">
+                <text x="280" y="-686" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="end" display="none" transform="rotate(270,280,-686)">1</text>
+                <text x="276" y="-694" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="start" display="none" transform="rotate(270,276,-694)">1</text>
+                <path d="M 280 -695 v 5" fill="none" stroke="#800" stroke-width="1"/>
+                <circle cx="280" cy="-693" r="3" stroke="#800" fill="none" stroke-width="1" display="none"/>
+                <path d="M 277 -690 L 280 -687 L 283 -690" fill="none" stroke="#800" stroke-width="1" display="none"/>
+            </g>
+            <g style="display: none;">
+                <title>This component is unmounted</title>
+                <text x="270.3899999999999" y="-695.98" fill="red" style="font-size: 7pt; font-family: Arial;" text-anchor="end" transform="rotate(270,270.3899999999999,-695.98)">(R)</text>
+            </g>
+        </g>
+        <g puuid="1bf59dff03ec4233aa077dc7cf0e92a1" uuid="b0248eb51e084227889f2cb84eab79c4" convert_to_pcb="" add_into_bom="">
+            <g style="">
+                <text x="322" y="-662.671875" font-family="Arial" font-size="7pt" fill="#000080" text-anchor="start" value="4k">4k</text>
+            </g>
+            <g style="">
+                <text x="322.0078125" y="-671.796875" font-family="Arial" font-size="7pt" fill="#000080" text-anchor="start">R11</text>
+            </g>
+            <polyline points="315 -660 310 -663" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="320 -668 310 -673" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="310 -663 320 -668" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <g locked="0">
+                <text x="315" y="-664" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="start" display="none" transform="rotate(270,315,-664)">2</text>
+                <text x="311" y="-656" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="end" display="none" transform="rotate(270,311,-656)">2</text>
+                <path d="M 315 -655 v -5" fill="none" stroke="#800" stroke-width="1"/>
+                <circle cx="315" cy="-657" r="3" stroke="#800" fill="none" stroke-width="1" display="none"/>
+                <path d="M 318 -660 L 315 -663 L 312 -660" fill="none" stroke="#800" stroke-width="1" display="none"/>
+            </g>
+            <polyline points="310 -682 320 -687" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="310 -673 320 -677" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="320 -677 310 -682" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="320 -687 315 -690" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <g locked="0">
+                <text x="315" y="-686" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="end" display="none" transform="rotate(270,315,-686)">1</text>
+                <text x="311" y="-694" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="start" display="none" transform="rotate(270,311,-694)">1</text>
+                <path d="M 315 -695 v 5" fill="none" stroke="#800" stroke-width="1"/>
+                <circle cx="315" cy="-693" r="3" stroke="#800" fill="none" stroke-width="1" display="none"/>
+                <path d="M 312 -690 L 315 -687 L 318 -690" fill="none" stroke="#800" stroke-width="1" display="none"/>
+            </g>
+            <g style="display: none;">
+                <title>This component is unmounted</title>
+                <text x="305.3899999999999" y="-695.98" fill="red" style="font-size: 7pt; font-family: Arial;" text-anchor="end" transform="rotate(270,305.3899999999999,-695.98)">(R)</text>
+            </g>
+        </g>
+        <g puuid="1bf59dff03ec4233aa077dc7cf0e92a1" uuid="b0248eb51e084227889f2cb84eab79c4" convert_to_pcb="" add_into_bom="">
+            <g style="">
+                <text x="357" y="-662.671875" font-family="Arial" font-size="7pt" fill="#000080" text-anchor="start" value="2k">2k</text>
+            </g>
+            <g style="">
+                <text x="357.0078125" y="-671.796875" font-family="Arial" font-size="7pt" fill="#000080" text-anchor="start">R12</text>
+            </g>
+            <polyline points="350 -660 345 -663" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="355 -668 345 -673" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="345 -663 355 -668" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <g locked="0">
+                <text x="350" y="-664" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="start" display="none" transform="rotate(270,350,-664)">2</text>
+                <text x="346" y="-656" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="end" display="none" transform="rotate(270,346,-656)">2</text>
+                <path d="M 350 -655 v -5" fill="none" stroke="#800" stroke-width="1"/>
+                <circle cx="350" cy="-657" r="3" stroke="#800" fill="none" stroke-width="1" display="none"/>
+                <path d="M 353 -660 L 350 -663 L 347 -660" fill="none" stroke="#800" stroke-width="1" display="none"/>
+            </g>
+            <polyline points="345 -682 355 -687" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="345 -673 355 -677" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="355 -677 345 -682" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="355 -687 350 -690" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <g locked="0">
+                <text x="350" y="-686" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="end" display="none" transform="rotate(270,350,-686)">1</text>
+                <text x="346" y="-694" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="start" display="none" transform="rotate(270,346,-694)">1</text>
+                <path d="M 350 -695 v 5" fill="none" stroke="#800" stroke-width="1"/>
+                <circle cx="350" cy="-693" r="3" stroke="#800" fill="none" stroke-width="1" display="none"/>
+                <path d="M 347 -690 L 350 -687 L 353 -690" fill="none" stroke="#800" stroke-width="1" display="none"/>
+            </g>
+            <g style="display: none;">
+                <title>This component is unmounted</title>
+                <text x="340.39999999999986" y="-696.9200000000001" fill="red" style="font-size: 7pt; font-family: Arial;" text-anchor="end" transform="rotate(270,340.39999999999986,-696.9200000000001)">(R)</text>
+            </g>
+        </g>
+        <g puuid="1bf59dff03ec4233aa077dc7cf0e92a1" uuid="b0248eb51e084227889f2cb84eab79c4" convert_to_pcb="" add_into_bom="">
+            <g style="">
+                <text x="392" y="-662.671875" font-family="Arial" font-size="7pt" fill="#000080" text-anchor="start">1k</text>
+            </g>
+            <g style="">
+                <text x="392.0078125" y="-671.796875" font-family="Arial" font-size="7pt" fill="#000080" text-anchor="start">R13</text>
+            </g>
+            <polyline points="385 -660 380 -663" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="390 -668 380 -673" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="380 -663 390 -668" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <g locked="0">
+                <text x="385" y="-664" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="start" display="none" transform="rotate(270,385,-664)">2</text>
+                <text x="381" y="-656" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="end" display="none" transform="rotate(270,381,-656)">2</text>
+                <path d="M 385 -655 v -5" fill="none" stroke="#800" stroke-width="1"/>
+                <circle cx="385" cy="-657" r="3" stroke="#800" fill="none" stroke-width="1" display="none"/>
+                <path d="M 388 -660 L 385 -663 L 382 -660" fill="none" stroke="#800" stroke-width="1" display="none"/>
+            </g>
+            <polyline points="380 -682 390 -687" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="380 -673 390 -677" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="390 -677 380 -682" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="390 -687 385 -690" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <g locked="0">
+                <text x="385" y="-686" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="end" display="none" transform="rotate(270,385,-686)">1</text>
+                <text x="381" y="-694" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="start" display="none" transform="rotate(270,381,-694)">1</text>
+                <path d="M 385 -695 v 5" fill="none" stroke="#800" stroke-width="1"/>
+                <circle cx="385" cy="-693" r="3" stroke="#800" fill="none" stroke-width="1" display="none"/>
+                <path d="M 382 -690 L 385 -687 L 388 -690" fill="none" stroke="#800" stroke-width="1" display="none"/>
+            </g>
+            <g style="display: none;">
+                <title>This component is unmounted</title>
+                <text x="375.39999999999986" y="-696.9200000000001" fill="red" style="font-size: 7pt; font-family: Arial;" text-anchor="end" transform="rotate(270,375.39999999999986,-696.9200000000001)">(R)</text>
+            </g>
+        </g>
+        <g puuid="1bf59dff03ec4233aa077dc7cf0e92a1" uuid="b0248eb51e084227889f2cb84eab79c4" convert_to_pcb="" add_into_bom="">
+            <g style="">
+                <text x="427" y="-662.671875" font-family="Arial" font-size="7pt" fill="#000080" text-anchor="start" value="499">499</text>
+            </g>
+            <g style="">
+                <text x="427.0078125" y="-671.796875" font-family="Arial" font-size="7pt" fill="#000080" text-anchor="start">R14</text>
+            </g>
+            <polyline points="420 -660 415 -663" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="425 -668 415 -673" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="415 -663 425 -668" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <g locked="0">
+                <text x="420" y="-664" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="start" display="none" transform="rotate(270,420,-664)">2</text>
+                <text x="416" y="-656" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="end" display="none" transform="rotate(270,416,-656)">2</text>
+                <path d="M 420 -655 v -5" fill="none" stroke="#800" stroke-width="1"/>
+                <circle cx="420" cy="-657" r="3" stroke="#800" fill="none" stroke-width="1" display="none"/>
+                <path d="M 423 -660 L 420 -663 L 417 -660" fill="none" stroke="#800" stroke-width="1" display="none"/>
+            </g>
+            <polyline points="415 -682 425 -687" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="415 -673 425 -677" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="425 -677 415 -682" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="425 -687 420 -690" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <g locked="0">
+                <text x="420" y="-686" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="end" display="none" transform="rotate(270,420,-686)">1</text>
+                <text x="416" y="-694" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="start" display="none" transform="rotate(270,416,-694)">1</text>
+                <path d="M 420 -695 v 5" fill="none" stroke="#800" stroke-width="1"/>
+                <circle cx="420" cy="-693" r="3" stroke="#800" fill="none" stroke-width="1" display="none"/>
+                <path d="M 417 -690 L 420 -687 L 423 -690" fill="none" stroke="#800" stroke-width="1" display="none"/>
+            </g>
+            <g style="display: none;">
+                <title>This component is unmounted</title>
+                <text x="410.39999999999986" y="-696.9200000000001" fill="red" style="font-size: 7pt; font-family: Arial;" text-anchor="end" transform="rotate(270,410.39999999999986,-696.9200000000001)">(R)</text>
+            </g>
+        </g>
+        <g>
+            <g>
+                <text x="617.73" y="-533.1" font-family="Times New Roman" font-size="8pt" fill="#0000FF" value="BLUE">BLUE</text>
+            </g>
+            <polyline points="595 -535 600 -540 615 -540 615 -530 600 -530 595 -535" stroke="#0000FF" stroke-width="1" fill="transparent"/>
+        </g>
+        <g>
+            <g>
+                <text x="14.990000000000009" y="-792.39" font-family="Times New Roman" font-size="8pt" fill="#0000FF" value="PIN_G14" transform="rotate(90,14.990000000000009,-792.39)">PIN_G14</text>
+            </g>
+            <polyline points="20 -730 15 -735 15 -750 25 -750 25 -735 20 -730" stroke="#0000FF" stroke-width="1" fill="transparent"/>
+        </g>
+        <g>
+            <g>
+                <text x="49.99000000000001" y="-792.39" font-family="Times New Roman" font-size="8pt" fill="#0000FF" value="PIN_D15" transform="rotate(90,49.99000000000001,-792.39)">PIN_D15</text>
+            </g>
+            <polyline points="55 -730 50 -735 50 -750 60 -750 60 -735 55 -730" stroke="#0000FF" stroke-width="1" fill="transparent"/>
+        </g>
+        <g>
+            <g>
+                <text x="84.99000000000001" y="-791.79" font-family="Times New Roman" font-size="8pt" fill="#0000FF" value="PIN_C15" transform="rotate(90,84.99000000000001,-791.79)">PIN_C15</text>
+            </g>
+            <polyline points="90 -730 85 -735 85 -750 95 -750 95 -735 90 -730" stroke="#0000FF" stroke-width="1" fill="transparent"/>
+        </g>
+        <g>
+            <g>
+                <text x="119.99000000000001" y="-791.79" font-family="Times New Roman" font-size="8pt" fill="#0000FF" value="PIN_B16" transform="rotate(90,119.99000000000001,-791.79)">PIN_B16</text>
+            </g>
+            <polyline points="125 -730 120 -735 120 -750 130 -750 130 -735 125 -730" stroke="#0000FF" stroke-width="1" fill="transparent"/>
+        </g>
+        <g>
+            <g>
+                <text x="154.99" y="-791.79" font-family="Times New Roman" font-size="8pt" fill="#0000FF" value="PIN_C16" transform="rotate(90,154.99,-791.79)">PIN_C16</text>
+            </g>
+            <polyline points="160 -730 155 -735 155 -750 165 -750 165 -735 160 -730" stroke="#0000FF" stroke-width="1" fill="transparent"/>
+        </g>
+        <g>
+            <g>
+                <text x="189.99" y="-792.39" font-family="Times New Roman" font-size="8pt" fill="#0000FF" value="PIN_D17" transform="rotate(90,189.99,-792.39)">PIN_D17</text>
+            </g>
+            <polyline points="195 -730 190 -735 190 -750 200 -750 200 -735 195 -730" stroke="#0000FF" stroke-width="1" fill="transparent"/>
+        </g>
+        <polyline points="595 -535 160 -535 160 -635" stroke="#008800" stroke-width="1" fill="none"/>
+        <polyline points="20 -695 20 -730" stroke="#008800" stroke-width="1" fill="none"/>
+        <polyline points="55 -695 55 -730" stroke="#008800" stroke-width="1" fill="none"/>
+        <polyline points="90 -695 90 -730" stroke="#008800" stroke-width="1" fill="none"/>
+        <polyline points="125 -695 125 -730" stroke="#008800" stroke-width="1" fill="none"/>
+        <polyline points="195 -695 195 -730" stroke="#008800" stroke-width="1" fill="none"/>
+        <polyline points="160 -695 160 -730" stroke="#008800" stroke-width="1" fill="none"/>
+        <polyline points="90 -655 90 -635" stroke="#008800" stroke-width="1" fill="none"/>
+        <polyline points="55 -655 55 -635" stroke="#008800" stroke-width="1" fill="none"/>
+        <polyline points="20 -655 20 -635 160 -635" stroke="#008800" stroke-width="1" fill="none"/>
+        <polyline points="125 -655 125 -635" stroke="#008800" stroke-width="1" fill="none"/>
+        <polyline points="195 -655 195 -635 160 -635 160 -655" stroke="#008800" stroke-width="1" fill="none"/>
+        <g puuid="1bf59dff03ec4233aa077dc7cf0e92a1" uuid="b0248eb51e084227889f2cb84eab79c4" convert_to_pcb="" add_into_bom="">
+            <g style="">
+                <text x="27.015625" y="-662.671875" font-family="Arial" font-size="7pt" fill="#000080" text-anchor="start" value="16k">16k</text>
+            </g>
+            <g style="">
+                <text x="27.0078125" y="-671.796875" font-family="Arial" font-size="7pt" fill="#000080" text-anchor="start">R15</text>
+            </g>
+            <polyline points="20 -660 15 -663" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="25 -668 15 -673" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="15 -663 25 -668" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <g locked="0">
+                <text x="20" y="-664" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="start" display="none" transform="rotate(270,20,-664)">2</text>
+                <text x="16" y="-656" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="end" display="none" transform="rotate(270,16,-656)">2</text>
+                <path d="M 20 -655 v -5" fill="none" stroke="#800" stroke-width="1"/>
+                <circle cx="20" cy="-657" r="3" stroke="#800" fill="none" stroke-width="1" display="none"/>
+                <path d="M 23 -660 L 20 -663 L 17 -660" fill="none" stroke="#800" stroke-width="1" display="none"/>
+            </g>
+            <polyline points="15 -682 25 -687" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="15 -673 25 -677" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="25 -677 15 -682" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="25 -687 20 -690" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <g locked="0">
+                <text x="20" y="-686" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="end" display="none" transform="rotate(270,20,-686)">1</text>
+                <text x="16" y="-694" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="start" display="none" transform="rotate(270,16,-694)">1</text>
+                <path d="M 20 -695 v 5" fill="none" stroke="#800" stroke-width="1"/>
+                <circle cx="20" cy="-693" r="3" stroke="#800" fill="none" stroke-width="1" display="none"/>
+                <path d="M 17 -690 L 20 -687 L 23 -690" fill="none" stroke="#800" stroke-width="1" display="none"/>
+            </g>
+            <g style="display: none;">
+                <title>This component is unmounted</title>
+                <text x="10.390000000000015" y="-695.96" fill="red" style="font-size: 7pt; font-family: Arial;" text-anchor="end" transform="rotate(270,10.390000000000015,-695.96)">(R)</text>
+            </g>
+        </g>
+        <g puuid="1bf59dff03ec4233aa077dc7cf0e92a1" uuid="b0248eb51e084227889f2cb84eab79c4" convert_to_pcb="" add_into_bom="">
+            <g style="">
+                <text x="62" y="-662.671875" font-family="Arial" font-size="7pt" fill="#000080" text-anchor="start" value="8k">8k</text>
+            </g>
+            <g style="">
+                <text x="62.0078125" y="-671.796875" font-family="Arial" font-size="7pt" fill="#000080" text-anchor="start">R16</text>
+            </g>
+            <polyline points="55 -660 50 -663" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="60 -668 50 -673" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="50 -663 60 -668" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <g locked="0">
+                <text x="55" y="-664" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="start" display="none" transform="rotate(270,55,-664)">2</text>
+                <text x="51" y="-656" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="end" display="none" transform="rotate(270,51,-656)">2</text>
+                <path d="M 55 -655 v -5" fill="none" stroke="#800" stroke-width="1"/>
+                <circle cx="55" cy="-657" r="3" stroke="#800" fill="none" stroke-width="1" display="none"/>
+                <path d="M 58 -660 L 55 -663 L 52 -660" fill="none" stroke="#800" stroke-width="1" display="none"/>
+            </g>
+            <polyline points="50 -682 60 -687" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="50 -673 60 -677" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="60 -677 50 -682" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="60 -687 55 -690" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <g locked="0">
+                <text x="55" y="-686" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="end" display="none" transform="rotate(270,55,-686)">1</text>
+                <text x="51" y="-694" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="start" display="none" transform="rotate(270,51,-694)">1</text>
+                <path d="M 55 -695 v 5" fill="none" stroke="#800" stroke-width="1"/>
+                <circle cx="55" cy="-693" r="3" stroke="#800" fill="none" stroke-width="1" display="none"/>
+                <path d="M 52 -690 L 55 -687 L 58 -690" fill="none" stroke="#800" stroke-width="1" display="none"/>
+            </g>
+            <g style="display: none;">
+                <title>This component is unmounted</title>
+                <text x="45.389999999999986" y="-695.96" fill="red" style="font-size: 7pt; font-family: Arial;" text-anchor="end" transform="rotate(270,45.389999999999986,-695.96)">(R)</text>
+            </g>
+        </g>
+        <g puuid="1bf59dff03ec4233aa077dc7cf0e92a1" uuid="b0248eb51e084227889f2cb84eab79c4" convert_to_pcb="" add_into_bom="">
+            <g style="">
+                <text x="97" y="-662.671875" font-family="Arial" font-size="7pt" fill="#000080" text-anchor="start" value="4k">4k</text>
+            </g>
+            <g style="">
+                <text x="97.0078125" y="-671.796875" font-family="Arial" font-size="7pt" fill="#000080" text-anchor="start">R17</text>
+            </g>
+            <polyline points="90 -660 85 -663" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="95 -668 85 -673" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="85 -663 95 -668" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <g locked="0">
+                <text x="90" y="-664" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="start" display="none" transform="rotate(270,90,-664)">2</text>
+                <text x="86" y="-656" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="end" display="none" transform="rotate(270,86,-656)">2</text>
+                <path d="M 90 -655 v -5" fill="none" stroke="#800" stroke-width="1"/>
+                <circle cx="90" cy="-657" r="3" stroke="#800" fill="none" stroke-width="1" display="none"/>
+                <path d="M 93 -660 L 90 -663 L 87 -660" fill="none" stroke="#800" stroke-width="1" display="none"/>
+            </g>
+            <polyline points="85 -682 95 -687" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="85 -673 95 -677" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="95 -677 85 -682" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="95 -687 90 -690" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <g locked="0">
+                <text x="90" y="-686" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="end" display="none" transform="rotate(270,90,-686)">1</text>
+                <text x="86" y="-694" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="start" display="none" transform="rotate(270,86,-694)">1</text>
+                <path d="M 90 -695 v 5" fill="none" stroke="#800" stroke-width="1"/>
+                <circle cx="90" cy="-693" r="3" stroke="#800" fill="none" stroke-width="1" display="none"/>
+                <path d="M 87 -690 L 90 -687 L 93 -690" fill="none" stroke="#800" stroke-width="1" display="none"/>
+            </g>
+            <g style="display: none;">
+                <title>This component is unmounted</title>
+                <text x="80.38999999999999" y="-695.98" fill="red" style="font-size: 7pt; font-family: Arial;" text-anchor="end" transform="rotate(270,80.38999999999999,-695.98)">(R)</text>
+            </g>
+        </g>
+        <g puuid="1bf59dff03ec4233aa077dc7cf0e92a1" uuid="b0248eb51e084227889f2cb84eab79c4" convert_to_pcb="" add_into_bom="">
+            <g style="">
+                <text x="132" y="-662.671875" font-family="Arial" font-size="7pt" fill="#000080" text-anchor="start" value="2k">2k</text>
+            </g>
+            <g style="">
+                <text x="132.0078125" y="-671.796875" font-family="Arial" font-size="7pt" fill="#000080" text-anchor="start">R18</text>
+            </g>
+            <polyline points="125 -660 120 -663" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="130 -668 120 -673" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="120 -663 130 -668" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <g locked="0">
+                <text x="125" y="-664" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="start" display="none" transform="rotate(270,125,-664)">2</text>
+                <text x="121" y="-656" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="end" display="none" transform="rotate(270,121,-656)">2</text>
+                <path d="M 125 -655 v -5" fill="none" stroke="#800" stroke-width="1"/>
+                <circle cx="125" cy="-657" r="3" stroke="#800" fill="none" stroke-width="1" display="none"/>
+                <path d="M 128 -660 L 125 -663 L 122 -660" fill="none" stroke="#800" stroke-width="1" display="none"/>
+            </g>
+            <polyline points="120 -682 130 -687" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="120 -673 130 -677" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="130 -677 120 -682" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="130 -687 125 -690" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <g locked="0">
+                <text x="125" y="-686" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="end" display="none" transform="rotate(270,125,-686)">1</text>
+                <text x="121" y="-694" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="start" display="none" transform="rotate(270,121,-694)">1</text>
+                <path d="M 125 -695 v 5" fill="none" stroke="#800" stroke-width="1"/>
+                <circle cx="125" cy="-693" r="3" stroke="#800" fill="none" stroke-width="1" display="none"/>
+                <path d="M 122 -690 L 125 -687 L 128 -690" fill="none" stroke="#800" stroke-width="1" display="none"/>
+            </g>
+            <g style="display: none;">
+                <title>This component is unmounted</title>
+                <text x="115.39999999999998" y="-696.9200000000001" fill="red" style="font-size: 7pt; font-family: Arial;" text-anchor="end" transform="rotate(270,115.39999999999998,-696.9200000000001)">(R)</text>
+            </g>
+        </g>
+        <g puuid="1bf59dff03ec4233aa077dc7cf0e92a1" uuid="b0248eb51e084227889f2cb84eab79c4" convert_to_pcb="" add_into_bom="">
+            <g style="">
+                <text x="167" y="-662.671875" font-family="Arial" font-size="7pt" fill="#000080" text-anchor="start">1k</text>
+            </g>
+            <g style="">
+                <text x="167.0078125" y="-671.796875" font-family="Arial" font-size="7pt" fill="#000080" text-anchor="start">R19</text>
+            </g>
+            <polyline points="160 -660 155 -663" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="165 -668 155 -673" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="155 -663 165 -668" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <g locked="0">
+                <text x="160" y="-664" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="start" display="none" transform="rotate(270,160,-664)">2</text>
+                <text x="156" y="-656" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="end" display="none" transform="rotate(270,156,-656)">2</text>
+                <path d="M 160 -655 v -5" fill="none" stroke="#800" stroke-width="1"/>
+                <circle cx="160" cy="-657" r="3" stroke="#800" fill="none" stroke-width="1" display="none"/>
+                <path d="M 163 -660 L 160 -663 L 157 -660" fill="none" stroke="#800" stroke-width="1" display="none"/>
+            </g>
+            <polyline points="155 -682 165 -687" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="155 -673 165 -677" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="165 -677 155 -682" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="165 -687 160 -690" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <g locked="0">
+                <text x="160" y="-686" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="end" display="none" transform="rotate(270,160,-686)">1</text>
+                <text x="156" y="-694" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="start" display="none" transform="rotate(270,156,-694)">1</text>
+                <path d="M 160 -695 v 5" fill="none" stroke="#800" stroke-width="1"/>
+                <circle cx="160" cy="-693" r="3" stroke="#800" fill="none" stroke-width="1" display="none"/>
+                <path d="M 157 -690 L 160 -687 L 163 -690" fill="none" stroke="#800" stroke-width="1" display="none"/>
+            </g>
+            <g style="display: none;">
+                <title>This component is unmounted</title>
+                <text x="150.39999999999998" y="-696.9200000000001" fill="red" style="font-size: 7pt; font-family: Arial;" text-anchor="end" transform="rotate(270,150.39999999999998,-696.9200000000001)">(R)</text>
+            </g>
+        </g>
+        <g puuid="1bf59dff03ec4233aa077dc7cf0e92a1" uuid="b0248eb51e084227889f2cb84eab79c4" convert_to_pcb="" add_into_bom="">
+            <g style="">
+                <text x="202" y="-662.671875" font-family="Arial" font-size="7pt" fill="#000080" text-anchor="start" value="499">499</text>
+            </g>
+            <g style="">
+                <text x="202.0078125" y="-671.796875" font-family="Arial" font-size="7pt" fill="#000080" text-anchor="start">R20</text>
+            </g>
+            <polyline points="195 -660 190 -663" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="200 -668 190 -673" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="190 -663 200 -668" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <g locked="0">
+                <text x="195" y="-664" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="start" display="none" transform="rotate(270,195,-664)">2</text>
+                <text x="191" y="-656" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="end" display="none" transform="rotate(270,191,-656)">2</text>
+                <path d="M 195 -655 v -5" fill="none" stroke="#800" stroke-width="1"/>
+                <circle cx="195" cy="-657" r="3" stroke="#800" fill="none" stroke-width="1" display="none"/>
+                <path d="M 198 -660 L 195 -663 L 192 -660" fill="none" stroke="#800" stroke-width="1" display="none"/>
+            </g>
+            <polyline points="190 -682 200 -687" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="190 -673 200 -677" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="200 -677 190 -682" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <polyline points="200 -687 195 -690" stroke="#A00000" locked="0" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <g locked="0">
+                <text x="195" y="-686" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="end" display="none" transform="rotate(270,195,-686)">1</text>
+                <text x="191" y="-694" font-family="Verdana" font-size="7pt" fill="#800" text-anchor="start" display="none" transform="rotate(270,191,-694)">1</text>
+                <path d="M 195 -695 v 5" fill="none" stroke="#800" stroke-width="1"/>
+                <circle cx="195" cy="-693" r="3" stroke="#800" fill="none" stroke-width="1" display="none"/>
+                <path d="M 192 -690 L 195 -687 L 198 -690" fill="none" stroke="#800" stroke-width="1" display="none"/>
+            </g>
+            <g style="display: none;">
+                <title>This component is unmounted</title>
+                <text x="185.39999999999986" y="-696.9200000000001" fill="red" style="font-size: 7pt; font-family: Arial;" text-anchor="end" transform="rotate(270,185.39999999999986,-696.9200000000001)">(R)</text>
+            </g>
+        </g>
+        <polyline points="460 -510 495 -510" stroke="#008800" stroke-width="1" fill="none"/>
+        <polyline points="595 -510 535 -510" stroke="#008800" stroke-width="1" fill="none"/>
+        <polyline points="595 -480 535 -480" stroke="#008800" stroke-width="1" fill="none"/>
+        <polyline points="495 -480 460 -480" stroke="#008800" stroke-width="1" fill="none"/>
+
+    </g>
+</svg>
